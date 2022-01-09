@@ -11,7 +11,7 @@ Hi there, I'am Wilian Santos ✌😎 ![visitors](https://visitor-badge.glitch.me
 
  🐱‍🏍 My experience includes mostly back-end enginering w/ ASP.NET/C# (.NET Framework/.NET Core) & SQL Server, and front-end w/ Javascript using jQuery & ReactJS. 
 
-🚀 I also enjoy experimenting with new languages ​​like Elixir, F#, have interests in Python, Go and cloud architecture, containers and message brokers to build scalable solutions. 
+🚀 I also enjoy experimenting with new languages ​​like Elixir, F#. Interests in Python, Go, cloud architecture, container orchestration and message brokers to build scalable solutions. 
 <br/>
 <div align="left">
   <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willianns&layout=compact&langs_count=9&theme=dark"/>
