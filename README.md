@@ -13,6 +13,6 @@ Hi there, I'am Wilian Santos ✌😎 ![visitors](https://visitor-badge.glitch.me
 
 🚀 I also enjoy experimenting with new languages ​​like Elixir, F#, have interests in Python, Go and cloud architecture, containers and message brokers to build scalable solutions. 
 <br/>
-<div align="center">
+<div align="left">
   <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willianns&layout=compact&langs_count=9&theme=dark"/>
 </div>
