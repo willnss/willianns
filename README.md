@@ -7,9 +7,9 @@ Hi there, I'am Wilian Santos ✌😎 ![visitors](https://visitor-badge.glitch.me
 </div>  
 <br/>
 
-💚 I'am a passionate web developer with +10yrs of experience and who likes to learn new technologies to craft software. Experience in develop new features, fix things, coaching new devs and collaborate to create solutions to customers.
+💚 I'm a web developer with over 10 years of experience who likes to learn new technologies to craft and deliver value through software.
 
- 🐱‍🏍 My experience includes mostly back-end enginering w/ ASP.NET/C# (.NET Framework/.NET Core) & SQL Server, and front-end w/ Javascript using jQuery & ReactJS. 
+ 🐱‍🏍 My experience includes mostly back-end enginering w/ ASP.NET/C# (.NET Framework/.NET Core) & SQL Server, and front-end w/ Javascript using mainly jQuery & ReactJS among other back-end and front-end techonologies. 
 
-🚀 I also enjoy experimenting with new languages ​​like Elixir, F#. Interests in Python, Go, cloud architecture, container orchestration and message brokers to build scalable solutions. 
+🚀 I also like to try new languages ​​like Elixir, F#. Currently I have focused efforts on expanding knowledge in cloud architecture in general and container orchestration to build scalable solutions.
 <br/><br/>
