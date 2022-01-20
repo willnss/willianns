@@ -11,5 +11,5 @@ Hi there, I'am Wilian Santos ✌😎 ![visitors](https://visitor-badge.glitch.me
 
  🐱‍🏍 My experience includes mostly back-end enginering w/ ASP.NET/C# (.NET Framework/.NET Core) & SQL Server, and front-end w/ Javascript using mainly jQuery & ReactJS among other back-end and front-end techonologies. 
 
-🚀 I also like to try new languages ​​like Elixir, F#. Currently I have focused efforts on expanding knowledge in cloud architecture in general and container orchestration to build scalable solutions.
+🚀 I also like to try new languages ​​like Elixir, F#. Currently I have focused efforts on expanding knowledge in cloud architecture and containerization to build scalable solutions.
 <br/><br/>
